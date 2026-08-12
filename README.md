@@ -19,6 +19,25 @@ The analysis covers:
 
 ---
 
+## Project Highlights
+
+- Developed a nonlinear 6-DOF rigid-body flight-dynamics model
+- Performed trim and stability analysis across the conversion corridor
+- Designed longitudinal and lateral LQR stability augmentation
+- Implemented gain scheduling across 213.8–369.4 KCAS
+- Evaluated open-loop and closed-loop modal characteristics
+- Validated nonlinear disturbance rejection
+---
+
+## Tools
+
+- MATLAB
+- Control System Toolbox
+- Numerical ODE integration
+- State-space modelling
+- LQR control design
+---
+
 ## Aircraft Parameters
 
 | Parameter | Value |
